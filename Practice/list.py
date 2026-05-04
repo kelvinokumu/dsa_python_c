@@ -77,6 +77,10 @@ def check_membership():#check if an item exists in the list using the 'in' keywo
 
     print("Is apple in list?", "apple" in fruits)
     print("Is mango in list?", "mango" in fruits)
+    
+    #tuple is immutable, meaning its elements cannot be changed after creation, while a list is mutable and can be modified.
+    #A tuple is defined using parentheses () and a list is defined using square brackets [].
+    #Tuples are typically used for fixed collections of items, while lists are used for collections
 
 
 def sort_list():
