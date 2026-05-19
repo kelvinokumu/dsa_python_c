@@ -1,3 +1,4 @@
+print("Hello Py")
 print("Hello python")
 
 name = "John"
